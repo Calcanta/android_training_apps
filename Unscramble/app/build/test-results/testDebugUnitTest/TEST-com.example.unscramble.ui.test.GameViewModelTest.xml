@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.unscramble.ui.test.GameViewModelTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-06T22:21:13" hostname="USQROCALCANTAR1" time="0.438">
+  <properties/>
+  <testcase name="gameViewModel_Initialization_FirstWordLoaded" classname="com.example.unscramble.ui.test.GameViewModelTest" time="0.374"/>
+  <testcase name="gameViewModel_IncorrectGuess_ErrorFlagSet" classname="com.example.unscramble.ui.test.GameViewModelTest" time="0.058"/>
+  <testcase name="gameViewModel_AllWordsGuessed_UiStateUpdatedCorrectly" classname="com.example.unscramble.ui.test.GameViewModelTest" time="0.002"/>
+  <testcase name="gameViewModel_CorrectWordGuessed_ScoreUpdatedAndErrorFlagUnset" classname="com.example.unscramble.ui.test.GameViewModelTest" time="0.001"/>
+  <testcase name="gameViewModel_WordSkipped_ScoreUnchangedAndWordCountIncreased" classname="com.example.unscramble.ui.test.GameViewModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

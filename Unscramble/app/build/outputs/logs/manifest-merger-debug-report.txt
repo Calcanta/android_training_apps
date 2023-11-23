@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f354381f21cadbe3e090faaa8ef249bb\transformed\jetified-material3-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1878334c04d67b38de0fee4a6fe090d8\transformed\jetified-material-ripple-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\08a58c7a78f1985cd606610f5ab9627a\transformed\jetified-material-icons-core-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\c6b1ded49a22ae928111cfde3f2f0668\transformed\jetified-material-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\52dd8a807b79e9e601b9aceda97242d8\transformed\jetified-animation-core-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\87d376963ac5432187093d48b2cb0b6b\transformed\jetified-animation-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ee7b802163d47935e6a425b8c9c7b2c9\transformed\jetified-foundation-layout-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\700a711736eead6ec3e97bcc6b465450\transformed\jetified-foundation-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\64868ffe29ba3d6f95db1175da7c2850\transformed\jetified-ui-tooling-data-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\36e4788d742c62b2c5db34d052ef9a39\transformed\jetified-ui-unit-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f4cc0668bf9a9d8f494c92e51af9ba70\transformed\jetified-ui-geometry-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\9482405f2d3c24cb60889a54515b902b\transformed\jetified-ui-util-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\b9abc73eb834ac73e080da63018587b2\transformed\jetified-ui-text-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\a933b2969ad8070f5567084dd09976a2\transformed\jetified-ui-tooling-preview-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\62bd000d7b7699abf247f85221b70a00\transformed\jetified-ui-test-manifest-1.4.2\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\a3fe49b7bf9c3906e62d3c1bf92092b4\transformed\jetified-ui-graphics-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d1e7ed44890e318fbe3cf74891fbaff0\transformed\jetified-ui-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\44ef3f281d78f1b9e5946a2c93fa54ff\transformed\jetified-ui-tooling-1.4.2\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\51911528e6da013cb45c99b5188ef2ac\transformed\jetified-activity-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\40818ae3fb33d5d0a7c37e4f6d2a649f\transformed\jetified-activity-ktx-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ecf17fc44e4b621651035e8c01ba25db\transformed\jetified-activity-compose-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\0ce489db81338cd879f6d2e6984d70fd\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ed3c580f0c26fdf1c92853cf28dfbc9d\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d0b22c907083a81cbb68f331e69d89df\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1f00e4ed5ff255fcc18044cb93e800a6\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\7c3c426122be091249a35dec936b5b76\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1dac387b64a6353f17a7bb1d90a89aa8\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ef2ec10a015cfa05ad6a9e55e3d4595d\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\43c7f7cd6d1d0e141f754ad3059e39f7\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\c6c978a78b5f036458c5301a09ac203f\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\5e7de3dc1b911ab2eea82280d40d1146\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\46f0def14bc6936260c0e1ca69b3c849\transformed\jetified-lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f56ff910f5a41e63324778d267eec3b7\transformed\jetified-lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\5436304e71e8903597ea7f13ef877a2e\transformed\jetified-runtime-saveable-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\0bc874c50c6dd3a520789b04dc1bdfd7\transformed\jetified-runtime-1.4.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e33b287cdc8f68c4b3fa03fe7a1b8d45\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e01836136f52966b482109028f4aec5a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e445399c2923bab68ac25816f59e70f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\eebb61ceaedb069af071e434578439bd\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\2f576cebded282d6a09bc21e2ac34342\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\122ffb40deaaee76fa5a0846c78f0dae\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+	package
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:1-42:12
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:21:5-40:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\62bd000d7b7699abf247f85221b70a00\transformed\jetified-ui-test-manifest-1.4.2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\62bd000d7b7699abf247f85221b70a00\transformed\jetified-ui-test-manifest-1.4.2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\44ef3f281d78f1b9e5946a2c93fa54ff\transformed\jetified-ui-tooling-1.4.2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\44ef3f281d78f1b9e5946a2c93fa54ff\transformed\jetified-ui-tooling-1.4.2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e445399c2923bab68ac25816f59e70f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e445399c2923bab68ac25816f59e70f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\2f576cebded282d6a09bc21e2ac34342\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\2f576cebded282d6a09bc21e2ac34342\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:25:9-54
+	tools:targetApi
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:28:9-29
+	android:icon
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:27:9-48
+activity#com.example.unscramble.MainActivity
+ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:29:9-39:20
+	android:label
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:32:13-45
+	android:exported
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:31:13-36
+	android:theme
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:30:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f354381f21cadbe3e090faaa8ef249bb\transformed\jetified-material3-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f354381f21cadbe3e090faaa8ef249bb\transformed\jetified-material3-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1878334c04d67b38de0fee4a6fe090d8\transformed\jetified-material-ripple-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1878334c04d67b38de0fee4a6fe090d8\transformed\jetified-material-ripple-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\08a58c7a78f1985cd606610f5ab9627a\transformed\jetified-material-icons-core-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\08a58c7a78f1985cd606610f5ab9627a\transformed\jetified-material-icons-core-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\c6b1ded49a22ae928111cfde3f2f0668\transformed\jetified-material-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\c6b1ded49a22ae928111cfde3f2f0668\transformed\jetified-material-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\52dd8a807b79e9e601b9aceda97242d8\transformed\jetified-animation-core-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\52dd8a807b79e9e601b9aceda97242d8\transformed\jetified-animation-core-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\87d376963ac5432187093d48b2cb0b6b\transformed\jetified-animation-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\87d376963ac5432187093d48b2cb0b6b\transformed\jetified-animation-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ee7b802163d47935e6a425b8c9c7b2c9\transformed\jetified-foundation-layout-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ee7b802163d47935e6a425b8c9c7b2c9\transformed\jetified-foundation-layout-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\700a711736eead6ec3e97bcc6b465450\transformed\jetified-foundation-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\700a711736eead6ec3e97bcc6b465450\transformed\jetified-foundation-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\64868ffe29ba3d6f95db1175da7c2850\transformed\jetified-ui-tooling-data-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\64868ffe29ba3d6f95db1175da7c2850\transformed\jetified-ui-tooling-data-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\36e4788d742c62b2c5db34d052ef9a39\transformed\jetified-ui-unit-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\36e4788d742c62b2c5db34d052ef9a39\transformed\jetified-ui-unit-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f4cc0668bf9a9d8f494c92e51af9ba70\transformed\jetified-ui-geometry-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f4cc0668bf9a9d8f494c92e51af9ba70\transformed\jetified-ui-geometry-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\9482405f2d3c24cb60889a54515b902b\transformed\jetified-ui-util-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\9482405f2d3c24cb60889a54515b902b\transformed\jetified-ui-util-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\b9abc73eb834ac73e080da63018587b2\transformed\jetified-ui-text-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\b9abc73eb834ac73e080da63018587b2\transformed\jetified-ui-text-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\a933b2969ad8070f5567084dd09976a2\transformed\jetified-ui-tooling-preview-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\a933b2969ad8070f5567084dd09976a2\transformed\jetified-ui-tooling-preview-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\62bd000d7b7699abf247f85221b70a00\transformed\jetified-ui-test-manifest-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\62bd000d7b7699abf247f85221b70a00\transformed\jetified-ui-test-manifest-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\a3fe49b7bf9c3906e62d3c1bf92092b4\transformed\jetified-ui-graphics-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\a3fe49b7bf9c3906e62d3c1bf92092b4\transformed\jetified-ui-graphics-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d1e7ed44890e318fbe3cf74891fbaff0\transformed\jetified-ui-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d1e7ed44890e318fbe3cf74891fbaff0\transformed\jetified-ui-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\44ef3f281d78f1b9e5946a2c93fa54ff\transformed\jetified-ui-tooling-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\44ef3f281d78f1b9e5946a2c93fa54ff\transformed\jetified-ui-tooling-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\51911528e6da013cb45c99b5188ef2ac\transformed\jetified-activity-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\51911528e6da013cb45c99b5188ef2ac\transformed\jetified-activity-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\40818ae3fb33d5d0a7c37e4f6d2a649f\transformed\jetified-activity-ktx-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\40818ae3fb33d5d0a7c37e4f6d2a649f\transformed\jetified-activity-ktx-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ecf17fc44e4b621651035e8c01ba25db\transformed\jetified-activity-compose-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ecf17fc44e4b621651035e8c01ba25db\transformed\jetified-activity-compose-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\0ce489db81338cd879f6d2e6984d70fd\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\0ce489db81338cd879f6d2e6984d70fd\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ed3c580f0c26fdf1c92853cf28dfbc9d\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ed3c580f0c26fdf1c92853cf28dfbc9d\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d0b22c907083a81cbb68f331e69d89df\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d0b22c907083a81cbb68f331e69d89df\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1f00e4ed5ff255fcc18044cb93e800a6\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1f00e4ed5ff255fcc18044cb93e800a6\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\7c3c426122be091249a35dec936b5b76\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\7c3c426122be091249a35dec936b5b76\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1dac387b64a6353f17a7bb1d90a89aa8\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\1dac387b64a6353f17a7bb1d90a89aa8\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ef2ec10a015cfa05ad6a9e55e3d4595d\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ef2ec10a015cfa05ad6a9e55e3d4595d\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\43c7f7cd6d1d0e141f754ad3059e39f7\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\43c7f7cd6d1d0e141f754ad3059e39f7\transformed\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\c6c978a78b5f036458c5301a09ac203f\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\c6c978a78b5f036458c5301a09ac203f\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\5e7de3dc1b911ab2eea82280d40d1146\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\5e7de3dc1b911ab2eea82280d40d1146\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\46f0def14bc6936260c0e1ca69b3c849\transformed\jetified-lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\46f0def14bc6936260c0e1ca69b3c849\transformed\jetified-lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f56ff910f5a41e63324778d267eec3b7\transformed\jetified-lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\f56ff910f5a41e63324778d267eec3b7\transformed\jetified-lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\5436304e71e8903597ea7f13ef877a2e\transformed\jetified-runtime-saveable-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\5436304e71e8903597ea7f13ef877a2e\transformed\jetified-runtime-saveable-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\0bc874c50c6dd3a520789b04dc1bdfd7\transformed\jetified-runtime-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\0bc874c50c6dd3a520789b04dc1bdfd7\transformed\jetified-runtime-1.4.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e33b287cdc8f68c4b3fa03fe7a1b8d45\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e33b287cdc8f68c4b3fa03fe7a1b8d45\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e01836136f52966b482109028f4aec5a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e01836136f52966b482109028f4aec5a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e445399c2923bab68ac25816f59e70f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\e445399c2923bab68ac25816f59e70f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\eebb61ceaedb069af071e434578439bd\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\eebb61ceaedb069af071e434578439bd\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\2f576cebded282d6a09bc21e2ac34342\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\2f576cebded282d6a09bc21e2ac34342\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\122ffb40deaaee76fa5a0846c78f0dae\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\122ffb40deaaee76fa5a0846c78f0dae\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\calcantaramontiel\Documents\OnBoard\AndroidTrainingCourses\AndroidTrainingCourses\Unscramble\app\src\main\AndroidManifest.xml
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\62bd000d7b7699abf247f85221b70a00\transformed\jetified-ui-test-manifest-1.4.2\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\62bd000d7b7699abf247f85221b70a00\transformed\jetified-ui-test-manifest-1.4.2\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\62bd000d7b7699abf247f85221b70a00\transformed\jetified-ui-test-manifest-1.4.2\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\44ef3f281d78f1b9e5946a2c93fa54ff\transformed\jetified-ui-tooling-1.4.2\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\44ef3f281d78f1b9e5946a2c93fa54ff\transformed\jetified-ui-tooling-1.4.2\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.2] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\44ef3f281d78f1b9e5946a2c93fa54ff\transformed\jetified-ui-tooling-1.4.2\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\2f576cebded282d6a09bc21e2ac34342\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\2f576cebded282d6a09bc21e2ac34342\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\ab27baab13698b31a33df595e8689b33\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\d3846a1afae62fca59ea381a52ff3f59\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.unscramble.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.unscramble.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\597f01033bb144eecd3c62b5f214a9b3\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\calcantaramontiel\.jdks\caches\transforms-3\191f69b14e04a6e1e96cb65f7d05c8d4\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
